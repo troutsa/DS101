@@ -1,0 +1,61 @@
+POSTING 1 - (Junior) Research Associate
+
+Required Qualifications
+
+•	Master’s degree in relevant field and 3 years of relevant experience OR Bachelor’s degree in relevant field and 5 years of relevant experience
+•	Experience with bioconjugation of biomolecules and biomolecule purification, general molecular biology techniques such as sample processing, cell culture, flow cytometry, DNA purification for mammalian cell cultures, PCR, gel electrophoresis, plate readers, western blot
+•	Excellent communication, analytical and organizational skills
+•	Ability to work independently and as part of a team while being collaborative in resolving problems
+•	Ability to prioritize multiple tasks at one time
+•	Must possess energy and drive to coordinate multiple projects simultaneously
+•	Ability to use tact and diplomacy to maintain effective working relationships
+
+Preferred Qualifications
+
+•	Ability to work with small animals
+
+
+POSTING 2 - (Senior) Postdoctoral Scholar
+
+Required Qualifications
+
+•	PhD Degree in relevant field.
+•	Experience or interest in data processing, text, numerical or imaging data analysis.
+•	Experience with data analysis, high dimensional clinical or omics analysis, data visualization, and report generation.
+•	Organizational skills, MS Office competency. Python, R, MATLAB, and C++ programming. Webserver and database development.
+•	Ability to communicate effectively, relay issues and troubleshoot, problem solving abilities, and high attention to detail.
+
+Preferred Qualifications
+
+•	Experience in CRISPR screening data analysis and applications in metabolism related diseases.
+•	Experience with data management, and high dimensional data analysis.
+•	Experience in software development and/or image analysis pipeline development
+•	Experience in machine learning and/or deep learning.
+•	Knowledge of cloud computing, large language model, representational learning.
+•	Experience in identifying metabolic vulnerabilities and/or weaknesses
+
+
+SKILLS IN BOTH POSTINGS
+
+•	Work as a team with others (required)
+•	Experience with data analysis/analytical statistics (required)
+•	Communicate effectivly (required)
+
+
+PERSONAL REFLECTION
+
+What surprised me the most about comparing these two postings was how similar the two jobs are even with one being about
+Junior level and one about Senior level. Even though one required a lot more experience in the field and education, all the
+skills in themselves are actually pretty much the same. Obviously, there is some differences in specifics since it's not the
+exact same job, as one works with CRISPR using Python and the other works with cancer in small animals, but the skill sets 
+you need (NACE) such as communication, data analysis, teamwork, etc. are in both postings.
+
+
+
+
+
+
+
+
+
+
