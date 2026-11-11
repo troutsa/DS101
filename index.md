@@ -7,15 +7,15 @@ Hi! My name is Sarah Trout, and I am a freshman pursuing a Bachelor of Science i
 ## Skills
 Technical:
 •	Much experience in platforms Paylocity, Excel, and Word
-•	Spectroscopy
+• Spectroscopy
 
 Professional:
 •	Excellent communication and pivoting techniques for stressful conversations
-•	Great determination and willpower to proceed with hard tasks
+• Great determination and willpower to proceed with hard tasks
 
 Currently Working on:
 •	Github
-•	Canvas
+• Canvas
 •	Pearson (Textbooks)
 •	Communication/Advocacy
 •	Socialization
